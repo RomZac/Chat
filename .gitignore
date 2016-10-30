@@ -2,3 +2,5 @@ out/
 .settings/
 bin/
 *.classpath
+*.gitignore
+*.project
